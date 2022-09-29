@@ -7,3 +7,4 @@
 - 😄 Pronouns: He/Him (Or They/Them if you need to)
 - ⚡ Fun fact: I dont know how to code (yet)
 -->
+![](https://komarev.com/ghpvc/?username=CycloKid&color=blueviolet)
