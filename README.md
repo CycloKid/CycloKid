@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on my many forks
-- 🌱 I’m currently learning HTML, Javascript, and Haxe
-- 👯 I’m collaborating on [this repo](https://www.github.com/OutRed/outred.github.io/) with [OutRed](https://www.github.com/OutRed/)
+- 🔭 I’m currently working on my many forks, and learning on Replit
+- 🌱 I’m currently learning HTML, Javascript, CSS, and Bash!
+- 👯 I’m collaborating on [this games site](https://www.github.com/OutRed/outred.github.io/) with [OutRed](https://www.github.com/OutRed/)
 - 🤔 I’m looking for help with reading code
 - 💬 Ask me about forking repositories and making them more unique to yourself
 - 😄 Pronouns: He/Him (Or They/Them if you need to)
