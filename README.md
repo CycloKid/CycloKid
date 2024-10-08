@@ -5,6 +5,6 @@
 - 💬 Ask me about forking repositories and making them more unique to yourself
 - 😄 Pronouns: He/Him (Or They/Them if you need to)
 - 📫 How to reach me: Contact me on Discord:
-#### TatersXP#7980 (Tell me you're from GitHub please!)
+#### Discord Username: cyclokid  (Tell me you're from GitHub please!)
 
 ![](https://komarev.com/ghpvc/?username=CycloKid&color=blueviolet)
