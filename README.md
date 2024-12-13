@@ -9,9 +9,9 @@
 📫 Reach out to me 📫 - On Discord (cyclokid), Tell me you're from GitHub please!
 
 ### What I'm working on:
+<img src=https://raw.githubusercontent.com/CycloKid/CycloKid/refs/heads/main/Pomelo%20Emulator%20Banner.png width=150> 
 
-🍉🍊 Currently working with the Pomelo Emulator team, helping with the website and graphic design
-
+**🍉🍊 Currently working with the Pomelo Emulator team, specifically on Web Development & Graphic Design.**
 
 ![](https://komarev.com/ghpvc/?username=CycloKid&color=blueviolet) 
 ##### ^^^ Each time you load this page this fun counter goes up!
