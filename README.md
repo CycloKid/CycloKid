@@ -20,5 +20,9 @@ ___
 
 ###### ^ I designed this logo & most of the site's style
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CycloKid&count_private=true&show_icons=true&theme=onedark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cyclokid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=CycloKid&color=d94500) 
 ##### ^^^ Each time you load this page this fun counter goes up!
