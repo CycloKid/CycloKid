@@ -39,6 +39,7 @@ ___
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+<br><br>
 
-![]https://komarev.com/ghpvc/?username=CycloKid&color=d94500) 
+![](https://komarev.com/ghpvc/?username=CycloKid&color=d94500) 
 ##### ^^^ Each time you load this page this fun counter goes up!
