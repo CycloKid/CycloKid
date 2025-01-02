@@ -36,10 +36,24 @@ ___
 ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=for-the-badge&logo=Alpine-Linux&logoColor=#0D597F)
 <br><br>
 #### Software & tools I use
+##### Programming & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+##### Graphic Design
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 <br><br>
+#### Languages I use (Both Learning and Learned)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br><br>
+
 
 ![](https://komarev.com/ghpvc/?username=CycloKid&color=d94500) 
 ##### ^^^ Each time you load this page this fun counter goes up!
