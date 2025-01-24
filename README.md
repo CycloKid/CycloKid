@@ -15,10 +15,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=for-the-badge&logo=Alpine-Linux&logoColor=#0D597F)
 ### Software & tools I use
-#### *Programming & IDEs*
+#### *IDEs*
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-white.svg?logo=intellij-idea&style=for-the-badge&logoColor=000000)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-1ad2a5.svg?logo=intellij-idea&style=for-the-badge&logoColor=000000)](#)
 #### *Graphic Design*
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
@@ -36,13 +38,21 @@ ___
 
 ### What I'm working on:
 
-**:orange::watermelon: Currently working with the Pomelo Emulator team, specifically on Web Development & Graphic Design.**
+**🫐🍉 Working with the MeloNX Emulator team on Graphic Design and Web Development**
+
+
+
+### What I've previously worked on
+
+**:orange::watermelon: Worked with the Pomelo Emulator team, specifically on Web Development & Graphic Design.**
+
+[<img src="https://raw.githubusercontent.com/CycloKid/CycloKid/refs/heads/main/MeloNX_Banner_Pixel_optimized.png" width="300">](https://melonx.org)
 
 ###### <blockquote>Click on the banner below to visit the project page!</blockquote>
 
 [<img src="https://raw.githubusercontent.com/CycloKid/CycloKid/refs/heads/main/Pomelo%20Emulator%20Banner.png" width="200">](https://pomelo-emu.github.io)
 
-###### ^ I designed this logo & most of the site's style
+###### ^ I designed the logo & most of the site's style
 
 ### My Stats
 
