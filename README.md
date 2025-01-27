@@ -40,13 +40,11 @@ ___
 
 **🫐🍉 Working with the MeloNX Emulator team on Graphic Design and Web Development**
 
-
+[<img src="https://raw.githubusercontent.com/CycloKid/CycloKid/refs/heads/main/MeloNX_Banner_Pixel_optimized.png" width="300">](https://melonx.org)
 
 ### What I've previously worked on
 
 **:orange::watermelon: Worked with the Pomelo Emulator team, specifically on Web Development & Graphic Design.**
-
-[<img src="https://raw.githubusercontent.com/CycloKid/CycloKid/refs/heads/main/MeloNX_Banner_Pixel_optimized.png" width="300">](https://melonx.org)
 
 ###### <blockquote>Click on the banner below to visit the project page!</blockquote>
 
